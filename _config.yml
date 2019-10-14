@@ -8,7 +8,7 @@ title:            Being Bayesian
 tagline:          'A Jekyll theme'
 description:      'The sun will come out Tomorrow'
 url:              
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Park hyongsong'
