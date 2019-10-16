@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: Hello world
 ---
 <div class="message">
