@@ -5,7 +5,7 @@ highlighter:      pygments
 
 # Setup
 title:            Being Bayesian
-tagline:          'A Jekyll theme'
+tagline:          
 description:      'The sun will come out Tomorrow'
 url:              "https://hyongsong.github.io/"
 baseurl:          
