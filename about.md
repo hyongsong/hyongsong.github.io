@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello world
+title: About
 ---
 <div class="message">
 Hello! I work full-time as an researcher for disaster risk reduction institute and also a part-time graduate student in Statistics.
